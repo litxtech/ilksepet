@@ -96,7 +96,6 @@ export default function Footer() {
             <div className="mt-4 text-sm">
               <p className="mb-1">İlksepet LLC</p>
               <p className="text-gray-400">
-                c/o Northwest Registered Agent Service Inc<br />
                 30 N Gould St Ste N<br />
                 Sheridan, WY 82801, USA
               </p>

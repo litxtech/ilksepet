@@ -78,7 +78,7 @@ export default function DpaPage() {
 
           <div className="bg-gray-50 rounded-lg p-6">
             <p className="font-semibold text-gray-900 mb-2">Contact</p>
-            <p>İlksepet LLC · 30 N Gould St Ste N, Sheridan, WY 82801, USA</p>
+            <p>İlksepet LLC<br/>30 N Gould St Ste N<br/>Sheridan, WY 82801, USA</p>
             <p>📧 privacy@ilksepet.com · legal@ilksepet.com · support@ilksepet.com</p>
             <p>☎ +1 (213) 634-1961</p>
           </div>

@@ -16,7 +16,7 @@ export default function TermsPage() {
           <section className="border-b border-gray-200 pb-8">
             <div className="mb-6">
               <p className="font-semibold text-gray-900 mb-2">Company: İlksepet LLC</p>
-              <p className="text-gray-700 mb-1">Address: Northwest Registered Agent Service Inc, 30 N Gould St Ste N, Sheridan, WY 82801, United States</p>
+              <p className="text-gray-700 mb-1">Address: 30 N Gould St Ste N, Sheridan, WY 82801, USA</p>
               <p className="text-gray-700 mb-1">Email: <a href="mailto:info@ilksepet.com" className="text-blue-600 hover:underline">info@ilksepet.com</a></p>
               <p className="text-gray-700">Phone: <a href="tel:+12136341961" className="text-blue-600 hover:underline">+1 (213) 634-1961</a></p>
             </div>

@@ -60,7 +60,7 @@ export default function ReportAbusePage() {
 
           <div className="bg-gray-50 rounded-lg p-6">
             <p className="font-semibold text-gray-900 mb-2">Contact Information</p>
-            <p>Ilksepet LLC · 30 N Gould St Ste N, Sheridan, WY 82801, USA</p>
+            <p>Ilksepet LLC<br/>30 N Gould St Ste N<br/>Sheridan, WY 82801, USA</p>
             <p>📧 abuse@ilksepet.com · legal@ilksepet.com · security@ilksepet.com</p>
             <p>☎ +1 (213) 634-1961</p>
           </div>

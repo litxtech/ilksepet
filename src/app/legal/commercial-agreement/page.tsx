@@ -22,7 +22,7 @@ export default function CommercialAgreementPage() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">Company & Notices Address</h2>
           <div className="bg-gray-50 rounded-lg p-6 text-gray-800 space-y-1">
-            <p>İlksepet LLC, c/o Northwest Registered Agent Service Inc, 30 N Gould St Ste N, Sheridan, WY 82801, USA</p>
+            <p>İlksepet LLC, 30 N Gould St Ste N, Sheridan, WY 82801, USA</p>
             <p>Email (legal): <a className="text-blue-600 hover:underline" href="mailto:legal@ilksepet.com">legal@ilksepet.com</a></p>
             <p>Email (support): <a className="text-blue-600 hover:underline" href="mailto:support@ilksepet.com">support@ilksepet.com</a></p>
             <p>General: <a className="text-blue-600 hover:underline" href="mailto:info@ilksepet.com">info@ilksepet.com</a></p>

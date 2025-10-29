@@ -112,7 +112,7 @@ export default function PrivacyPage() {
             <p className="mb-3">We post updates here and provide notice where legally required.</p>
             <div className="bg-gray-50 rounded-lg p-6">
               <p className="font-semibold text-gray-900 mb-2">Contact Information</p>
-              <p>İlksepet LLC · 30 N Gould St Ste N, Sheridan, WY 82801, USA</p>
+              <p>İlksepet LLC<br/>30 N Gould St Ste N<br/>Sheridan, WY 82801, USA</p>
               <p>📧 <a className="text-blue-600 hover:underline" href="mailto:privacy@ilksepet.com">privacy@ilksepet.com</a> · <a className="text-blue-600 hover:underline" href="mailto:legal@ilksepet.com">legal@ilksepet.com</a> · <a className="text-blue-600 hover:underline" href="mailto:support@ilksepet.com">support@ilksepet.com</a></p>
               <p>☎ <a className="text-blue-600 hover:underline" href="tel:+12136341961">+1 (213) 634-1961</a></p>
             </div>
