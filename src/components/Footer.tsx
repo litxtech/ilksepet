@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-300">
       <div className="mx-auto max-w-7xl px-6 py-12 md:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-white font-semibold mb-4">İlkSepet</h3>
             <p className="text-sm">
@@ -75,25 +75,21 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-white font-semibold mb-4">About Me – İlker Toprak</h4>
-            <p className="text-sm mb-3">
-              I’m İlker Toprak, a software developer, entrepreneur, and digital transformation consultant. Founder of İlksepet LLC, focused on scalable software for global businesses.
-            </p>
-            <ul className="space-y-1 text-sm">
-              <li className="text-gray-400">SaaS, E‑commerce, Automation, Cloud & AI</li>
-              <li className="text-gray-400">Mission: Smart software to solve real problems</li>
+            <h4 className="text-white font-semibold mb-4">About</h4>
+            <ul className="space-y-2 text-sm">
+              <li>
+                <Link href="/about" className="hover:text-white">About Me – İlker Toprak</Link>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/ilkertoprak" target="_blank" rel="noopener noreferrer" className="hover:text-white">LinkedIn</a>
+              </li>
+              <li>
+                <a href="https://instagram.com/ilkertoprak61" target="_blank" rel="noopener noreferrer" className="hover:text-white">Instagram</a>
+              </li>
+              <li>
+                <a href="https://www.ilksepet.com" target="_blank" rel="noopener noreferrer" className="hover:text-white">Website</a>
+              </li>
             </ul>
-            <div className="mt-3 space-y-1 text-sm">
-              <p>
-                🔗 <a href="https://linkedin.com/in/ilkertoprak" target="_blank" rel="noopener noreferrer" className="hover:text-white">LinkedIn</a>
-              </p>
-              <p>
-                📸 <a href="https://instagram.com/ilkertoprak61" target="_blank" rel="noopener noreferrer" className="hover:text-white">@ilkertoprak61</a>
-              </p>
-              <p>
-                🌐 <a href="https://www.ilksepet.com" target="_blank" rel="noopener noreferrer" className="hover:text-white">www.ilksepet.com</a>
-              </p>
-            </div>
           </div>
 
           <div>
