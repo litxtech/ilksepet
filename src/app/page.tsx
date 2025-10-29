@@ -288,7 +288,7 @@ function CodeTyping() {
       setCurrent((prev) => (prev + 1) % codes.length);
     }, 3000);
     return () => clearInterval(timer);
-  }, []);
+  }, [codes.length]);
 
   return (
     <code className="text-green-400 font-mono text-sm">
